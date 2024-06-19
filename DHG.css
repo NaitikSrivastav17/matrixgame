@@ -1,0 +1,53 @@
+.mail{
+    color:rgb(0, 255, 13);
+}
+.head1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color:rgb(8, 255, 8);
+    font-weight: 100;
+    margin-top:50px;
+    margin-bottom:50px;
+}
+.name{
+    
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin:50px;
+    font-size:large;
+    font-size: larger;
+    color:black;
+    display:inline;
+    border-width: 7px;
+    padding:10px;
+    border:black solid;
+
+
+}
+.name:hover{
+    display: inline;
+    border:green solid;
+    color:green;
+    transition: color 1s;
+}.hr1{
+    color:green;
+}
+.walter{
+    text-align: center;
+}
+.walter2{
+    text-align: center; 
+    width:210vh;
+    height:300px;
+   
+}
+.entername{
+    color:black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 50em;
+    margin-bottom: 20px;
+    height:25px;
+    text-align: center;
+    background-color:rgb(8, 255, 8);
+    border-radius: 30px;
+    border:none;
+}
