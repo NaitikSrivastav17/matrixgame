@@ -1,0 +1,1 @@
+window.alert("Please Open This Website in Desktop Mode.");
